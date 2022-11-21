@@ -17,12 +17,12 @@
 <sup>*1</sup> Vel pretium lectus quam id leo in vitae.*
 
 ## Sit Amet 
-**Consectetur Adipiscing [ABCs](https://www.google.com/):** 
+**Consectetur Adipiscing [ABCs](https://www.google.com/):**  
 DEF: 12345678 (Elit Duis / Tristique, sollicitudin nib)
 
-**Habitant:**
-GHI1234567 (morbi tristique)
-GHI8912345 (morbi tristique V2)
+**Habitant:**  
+GHI1234567 (morbi tristique)  
+GHI8912345 (morbi tristique V2)  
 GHI6789123 (morbi tristique)
 	
 ### **Senectus Et**
@@ -43,7 +43,7 @@ Justo nec ultrices dui sapien eget mi. Aliquam malesuada bibendum arcu vitae. Co
 ## **Antibodies**  
 * ~~*N/A*~~
 
-Sit amet tellus [cras adipiscing enim].(https://www.google.com/).
+Sit amet tellus [cras adipiscing enim](https://www.google.com/).
 
 															
 # Elementum-nibh
